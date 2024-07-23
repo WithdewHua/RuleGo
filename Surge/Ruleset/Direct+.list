@@ -27,9 +27,4 @@ DOMAIN,analytics.strava.com
 # > Umeng
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
-# > Tailscale
-PROCESS-NAME,tailscale
-PROCESS-NAME,tailscaled
-DOMAIN-SUFFIX,tailscale.com
-DOMAIN-SUFFIX,tailscale.io
 
