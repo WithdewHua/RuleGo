@@ -253,6 +253,9 @@ DOMAIN,link.theplatform.com
 DOMAIN-SUFFIX,pbs.org
 # > Peacock
 DOMAIN-SUFFIX,peacocktv.com
+# > Plex
+DOMAIN-SUFFIX,plex.services
+DOMAIN-SUFFIX,plex.tv
 # > Pornhub
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
