@@ -249,6 +249,7 @@ DOMAIN,s3.eu-central-1.amazonaws.com
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt3.com
